@@ -1,0 +1,7 @@
+1) To set environment variable
+
+> set varname=value
+
+2) To display environment variable
+
+> echo %PATH%
