@@ -5,3 +5,7 @@
 2) To display environment variable
 
 > echo %PATH%
+
+3) To show all environment variable
+
+> SET
